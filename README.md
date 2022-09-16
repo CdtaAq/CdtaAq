@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CdtaAq
 - 👀 I’m interested in ... Learning fullstack development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently enrolled at MITxPRO-Professional Certificate in Coding: Fullstack Development With MERN    
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I can be reached via email at ctay456a@gmail.com
 
 <!---
 CdtaAq/CdtaAq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
