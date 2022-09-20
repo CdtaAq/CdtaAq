@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CdtaAq
-- 👀 I’m interested in ... Learning fullstack development
+- 👀 I’m interested in ... Learning fullstack development 
 - 🌱 I’m currently enrolled at MITxPRO-Professional Certificate in Coding: Fullstack Development With MERN    
-- 💞️ I’m looking to collaborate on ...
+- you can learn more about me on my YouTube channel https://www.youtube.com
 - 📫 I can be reached via email at ctay456a@gmail.com
 
 <!---
